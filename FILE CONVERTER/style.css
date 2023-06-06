@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(16, 83, 178);
+  }
+  
+  .controls {
+    margin-bottom: 20px;
+  }
+  
+  .result {
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+    border: 1px solid #000000;
+    background-color: palevioletred;
+    padding: 10px;
+    overflow-y: auto;
+  }
